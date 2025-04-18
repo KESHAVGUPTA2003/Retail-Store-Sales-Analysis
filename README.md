@@ -1,5 +1,5 @@
 # Retail Store Sales Analysis Using Python
- I conducted an in-depth analysis of a retail store's sales dataset using Python. The goal was to extract meaningful insights and patterns from the data to enhance business strategy and operations.
+ I conducted an analysis of a retail store's sales dataset using Python. The goal was to extract meaningful insights and patterns from the data to enhance business strategy and operations.
 
 Key Components of the Analysis:
 
